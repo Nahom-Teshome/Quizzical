@@ -1,4 +1,4 @@
-import "../QUIZ.css"
+import "../Quiz.css"
 function QA(props){
     
 
